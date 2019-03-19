@@ -1,4 +1,4 @@
-# CloudExpo Europe
+# Debugging Services in Kubernetes with Linkerd 2.0
 * [Slides](/debugging-services-with-linkerd/cloud-expo.pdf)
 * [CloudExpo Europe](https://www.cloudexpoeurope.com/) 3/12/2019
 
