@@ -1,4 +1,4 @@
-# GraphQL
+# Using GraphQL to write awesome golang APIs
 
 The code from the talk can be found in my example app,
 which you can check out and run: https://github.com/rmars/emojivoto

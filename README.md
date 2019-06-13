@@ -1,5 +1,6 @@
-# Graphql for fun and profit
+# Using GraphQL to write awesome golang APIs
 * [Slides](/wwg-graphql/slides.pdf)
+* [Code](https://github.com/rmars/emojivoto)
 * [Meetup: Women Who Go](https://www.meetup.com/Women-Who-Go/events/260654660/)
 6/12/2019
 
