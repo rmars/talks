@@ -9,7 +9,8 @@ the PRs into self contained mini tutorials, which you can follow
 
 Other links from the talk:
 - StarWars API playground: https://graphql.github.io/swapi-graphql
-- https://graphql.org/learn/
+- Official Docs: https://graphql.org/learn/
+- Tutorial website: https://www.howtographql.com/
 - https://github.com/MoonHighway/learning-graphql
 - GraphQL libraries: https://graphql.org/code/
 - https://github.com/graph-gophers/graphql-go
