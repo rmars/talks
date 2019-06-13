@@ -1,3 +1,8 @@
+# Graphql for fun and profit
+* [Slides](/wwg-graphql/slides.pdf)
+* [Meetup: Women Who Go](https://www.meetup.com/Women-Who-Go/events/260654660/)
+6/12/2019
+
 # When the Command Line is Not Enough: Why Your OSS Project Needs A GUI
 * [Slides](/why-your-project-needs-a-gui/slides.pdf)
 * [Kubecon EU 2019](https://kccnceu19.sched.com/event/MPfz/lightning-talk-when-the-command-line-is-not-enough-why-your-oss-project-needs-a-gui-risha-mars-buoyant)
