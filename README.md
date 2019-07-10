@@ -23,3 +23,7 @@
 * [Slides](/debugging-services-with-linkerd/debugging_services_in_kubernetes_with_linkerd_2.0.pdf)
 * [Meetup: Women in Infrastructure Seattle](https://www.meetup.com/Women-in-Infrastructure-Seattle-Chapter/events/255790869/)
 11/08/2018
+
+# Podcast: Service Mesh with Risha Mars and Eliza Weisman
+* [Podcast: The Women In Tech Show](https://thewomenintechshow.com/2018/10/29/service-mesh-with-risha-mars-and-eliza-weisman/)
+10/29/2018
