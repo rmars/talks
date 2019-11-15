@@ -1,3 +1,11 @@
+# There's a Bug in My Service Mesh! What Do You Do When the Mesh is At Fault?
+#### Co-presented with Ana Calin ([@calinah](https://github.com/calinah))
+* [Slides](/bug-in-my-mesh/slides.pdf)
+* [Kubecon NA San Diego 2019](https://kccncna19.sched.com/event/UaZB)
+11/20/2019
+* [ServiceMeshCon San Diego](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/co-located-events/)
+11/18/2019
+
 # Using GraphQL to write awesome golang APIs
 * [Slides](/wwg-graphql/slides.pdf)
 * [Code](https://github.com/rmars/emojivoto)
