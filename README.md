@@ -3,7 +3,7 @@
 * [Slides](/bug-in-my-mesh/slides.pdf)
 * [Kubecon NA San Diego 2019](https://kccncna19.sched.com/event/UaZB)
 11/20/2019
-* [ServiceMeshCon San Diego](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/co-located-events/)
+* [ServiceMeshCon San Diego](https://servicemeshcon2019.sched.com/event/VQ2k)
 11/18/2019
 
 # Using GraphQL to write awesome golang APIs
