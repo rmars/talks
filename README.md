@@ -1,3 +1,8 @@
+# What happens when service mesh maintainers get a taste of their own mesh?
+#### co-presented with Carol Scott ([@scottcarol](https://github.com/scottcarol))
+* Kubecon EU (Virtual) 2020
+* [Slides](/taste-the-mesh/slides.pdf)
+
 # There's a Bug in My Service Mesh! What Do You Do When the Mesh is At Fault?
 #### Co-presented with Ana Calin ([@calinah](https://github.com/calinah))
 * [Slides](/bug-in-my-mesh/slides.pdf)

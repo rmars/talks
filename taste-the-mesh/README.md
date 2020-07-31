@@ -1,6 +1,6 @@
 # What happens when service mesh maintainers get a taste of their own mesh?
 
-### co-presented with Carol Scott (@scottcarol)
+### co-presented with Carol Scott ([@scottcarol](https://github.com/scottcarol))
 
 What happens when a service mesh creator has to eat its own dogfood?
 What's it like being on call for a service mesh? Until recently, the
